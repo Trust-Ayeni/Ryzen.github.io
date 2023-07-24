@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jul 2023 10:08:46 at https://wpriverthemes.com/gridx/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpriverthemes.com/gridx/ -O1 "C:\My Web Sites\my webpage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:09:45	Error: 	"Not Found" (404) at link https://wpriverthemes.com/gridx/wp-content/themes/gridx/assets/js/ajax-form.js?ver=6.2.2 (from https://wpriverthemes.com/gridx/)
+10:09:46	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=926
+10:09:46	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=926 to https://wpriverthemes.com/gridx/about-page/
+10:09:46	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=1084
+10:09:46	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=1084 to https://wpriverthemes.com/gridx/work/
+10:09:50	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=1560
+10:09:50	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=1560 to https://wpriverthemes.com/gridx/contact-info/
+10:09:50	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=1065
+10:09:50	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=1065 to https://wpriverthemes.com/gridx/credential/
+10:09:50	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=3197
+10:09:50	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=3197 to https://wpriverthemes.com/gridx/consulted-admitting-is-power-acuteness/
+10:09:55	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=1119
+10:09:55	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=1119 to https://wpriverthemes.com/gridx/service-offerings/
+10:09:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/gridx/t (from https://wpriverthemes.com/gridx/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7)
+10:09:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/gridx/dist/ (from https://wpriverthemes.com/gridx/wp-content/themes/gridx/assets/js/aos.js?ver=6.2.2)
+10:09:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/gridx/-negative.svg (from https://wpriverthemes.com/gridx/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1)
+10:09:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/gridx/OPR/ (from https://wpriverthemes.com/gridx/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1)
+10:09:55	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=1400
+10:09:55	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=1400 to https://wpriverthemes.com/gridx/workdetail-page/
+10:09:55	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=3207
+10:09:55	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=3207 to https://wpriverthemes.com/gridx/discovery-incommode-earnestly-he-commanded/
+10:09:55	Warning: 	Moved Permanently for https://wpriverthemes.com/gridx/?p=3204
+10:09:55	Warning: 	File has moved from https://wpriverthemes.com/gridx/?p=3204 to https://wpriverthemes.com/gridx/unsatiable-entreaties-may-collecting-power/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 134 links scanned, 119 files written (6103634 bytes overall) [2385580 bytes received at 34573 bytes/sec], 4831308 bytes transferred using HTTP compression in 100 files, ratio 18%, 9.5 requests per connection
+(5 errors, 18 warnings, 0 messages)
